@@ -1,0 +1,7 @@
+1. Download the blog file
+2. Unzip file
+3. Open index.html file
+4. Click into recently posted
+
+It is recommended to keep the files in the same folder
+- Kian
